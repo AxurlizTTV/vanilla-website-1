@@ -50,9 +50,9 @@
 
           <div class="cards">
             <div class="card">
-              <img src="/img/cardplaceholder.png" alt="Game">
+              <img src="/img/cardimg1.png" alt="Game">
               <div class="card-info">
-                <h2>Game Name</h2>
+                <h2>Team Fortress 2</h2>
                 <p>Game Version</p>
                 <div class="progress1"></div>
               </div>
@@ -60,9 +60,9 @@
             </div>
 
             <div class="card">
-              <img src="/img/cardplaceholder.png" alt="Game">
+              <img src="/img/cardimg2.png" alt="Game">
               <div class="card-info">
-                <h2>Game Name</h2>
+                <h2>Risk of Rain 2</h2>
                 <p>Game Version</p>
                 <div class="progress2"></div>
               </div>
@@ -70,9 +70,9 @@
             </div>
 
             <div class="card">
-              <img src="/img/cardplaceholder.png" alt="Game">
+              <img src="/img/cardimg3.png" alt="Game">
               <div class="card-info">
-                <h2>Game Name</h2>
+                <h2>Left 4 Dead 2</h2>
                 <p>Game Version</p>
                 <div class="progress3"></div>
               </div>
